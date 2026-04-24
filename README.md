@@ -6,9 +6,9 @@ Tinner is a React Native (Expo Router) mobile app with a lightweight onboarding 
 
 Replace OWNER and REPO after you publish your repository.
 
-[![Test Workflow](https://github.com/OWNER/REPO/actions/workflows/test.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/test.yml)
-[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=Flappy-Devs_Tinner&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Flappy-Devs_Tinner)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Flappy-Devs_Tinner&metric=coverage)](https://sonarcloud.io/summary/new_code?id=Flappy-Devs_Tinner)
+[![Test Workflow](https://github.com/nhantruongthanh123/Tinner-Testing/actions/workflows/test.yml/badge.svg)](https://github.com/nhantruongthanh123/Tinner-Testing/actions/workflows/test.yml)
+[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nhantruongthanh123_Tinner-Testing)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=coverage)](https://sonarcloud.io/summary/new_code?id=nhantruongthanh123_Tinner-Testing)
 
 ## Tech Stack
 
@@ -67,9 +67,9 @@ npm run test:ci
 
 ## SonarCloud
 
-- Dashboard: https://sonarcloud.io/summary/new_code?id=Flappy-Devs_Tinner
+- Dashboard: https://sonarcloud.io/summary/new_code?id=nhantruongthanh123_Tinner-Testing
 - Coverage source: coverage/lcov.info
-- Current analyzed source folders: app and src
+- Current analyzed source folders: app
 
 ## CI Workflow
 
