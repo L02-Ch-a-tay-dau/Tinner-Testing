@@ -7,8 +7,8 @@ Tinner is a React Native (Expo Router) mobile app with a lightweight onboarding 
 Replace OWNER and REPO after you publish your repository.
 
 [![Test Workflow](https://github.com/nhantruongthanh123/Tinner-Testing/actions/workflows/test.yml/badge.svg)](https://github.com/nhantruongthanh123/Tinner-Testing/actions/workflows/test.yml)
-[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nhantruongthanh123_Tinner-Testing)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=coverage)](https://sonarcloud.io/summary/new_code?id=nhantruongthanh123_Tinner-Testing)
+[![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=alert_status)](https://sonarcloud.io/summary/overall?id=nhantruongthanh123_Tinner-Testing&branch=main)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=coverage)](https://sonarcloud.io/component_measures?id=nhantruongthanh123_Tinner-Testing&metric=coverage)
 
 ## Tech Stack
 
