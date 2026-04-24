@@ -13,6 +13,7 @@ if (typeof global.__ExpoImportMetaRegistry === 'undefined') {
 }
 
 // ── Mock react-native-reanimated ─────────────────────────────────────────────
+jest.mock('react-native-worklets', () => require('react-native-worklets/lib/module/mock'));
 require('react-native-reanimated/mock');
 
 // ── Mock react-native-safe-area-context cho Jest runtime ─────────────────────
