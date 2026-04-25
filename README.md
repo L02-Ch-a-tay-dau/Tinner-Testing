@@ -4,7 +4,7 @@ Tinner is a React Native (Expo Router) mobile app with a lightweight onboarding 
 
 ## Badges
 
-Replace OWNER and REPO after you publish your repository.
+Test Workflow, SonarCloud Quality Gate, and Coverage badges are displayed below:
 
 [![Test Workflow](https://github.com/nhantruongthanh123/Tinner-Testing/actions/workflows/test.yml/badge.svg)](https://github.com/nhantruongthanh123/Tinner-Testing/actions/workflows/test.yml)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=nhantruongthanh123_Tinner-Testing&metric=alert_status)](https://sonarcloud.io/summary/overall?id=nhantruongthanh123_Tinner-Testing&branch=main)
